@@ -17,6 +17,6 @@ Cities
 ### Results
 Maps of the cities hotels and driving directions are shown as the results of this challenge.
 
-![City_Marker_Map](image/WeatherPy_travel_map_markers)
+![City_Marker_Map](image/WeatherPy_travel_map_markers.png)
 
-![City_Travel_Itinerary](image/WeatherPy_travel_map)
+![City_Travel_Itinerary](image/WeatherPy_travel_map.png)
