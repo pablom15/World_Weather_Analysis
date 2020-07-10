@@ -9,10 +9,10 @@
 The objective of this analysis was to successfully utilize APIs and try-exept blocks in order to determine a potential list of cities for customers to visit on vacation. OpenWeatherMap was used to obtain a random list of cities while Google Maps Platform was used to obtain hotel names and map images. The data frame was filtered to cities within 70-90F temperature with no rain or snow fall. From this list of cities, the following four were determined optimal for a European road trip. 
 
 Cities:
-    - Vierzon, France
-    - Saint-Orens-De-Gameville, France
-    - Vila, Portugal
-    - Lata, Portugal
+1. Vierzon, France
+1. Saint-Orens-De-Gameville, France
+1. Vila, Portugal
+1. Lata, Portugal
 
 ### Results
 Maps of the cities hotels and driving directions are shown as the results of this challenge.
